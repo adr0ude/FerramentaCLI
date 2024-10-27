@@ -1,5 +1,5 @@
 # Ferramenta CLI em Swift
-Esta é uma ferramenta de linha de comando (CLI) desenvolvida em Swift para manipulação básica de texto em arquivos. Você pode contar palavras, buscar palavras específicas, substituir palavras e ordenar o conteúdo de arquivos de texto.
+Esta é uma ferramenta de linha de comando (CLI) desenvolvida em Swift para manipulação básica de texto em arquivos, como atividade proposta no curso de Desenvolvido iOS do programa Capacita Brasil. Ela oferece ao usuário funcionalidades como: contagem de palavras, busca de palavras específicas, substituição de palavras e ordenação do conteúdo de arquivos de texto. Esse protótipo foi desenvil
 
 ## Funcionalidades
 
